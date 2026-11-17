@@ -1,0 +1,17 @@
+.gocache/
+.demo-data/
+data/
+*.test
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.token
+credentials.json
+service-account*.json
+secrets/
+.secrets/

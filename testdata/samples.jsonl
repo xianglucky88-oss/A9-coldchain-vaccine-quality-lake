@@ -1,0 +1,2 @@
+{"shipment_id":"SHP-001","logger_id":"LOGGER-A","sequence":0,"timestamp_ms":1767225600000,"received_at_ms":1767225601000,"temperature_c":4.0}
+{"shipment_id":"SHP-001","logger_id":"LOGGER-A","sequence":1,"timestamp_ms":1767225660000,"received_at_ms":1767225661000,"temperature_c":9.5}
